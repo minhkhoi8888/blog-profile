@@ -1,0 +1,21 @@
+.input{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 0 1rem 0 1rem;
+
+    label{
+        margin-top: 12px;
+        margin-bottom: 4px;
+    }
+
+    textarea,
+    input{
+        background-color: #3c3838;
+        color: white;
+        padding: 12px;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+    }
+}

@@ -1,0 +1,43 @@
+.post-container{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    .post-item{
+        width: 95%;
+        margin: auto;
+        margin-top: 10px;
+        background-color: #28292b;
+        border-radius: 30px;
+        padding: 8px 0;
+        color: wheat;
+        h4{
+            margin: 4px 0 8px 30px;
+        }
+        p{
+            margin: 4px 0 0 30px;
+        }
+    }
+}
+.tag-btn{
+    max-width: 20%;
+    padding: 4px;
+    border-radius: 10px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+}
+.tag-funny{
+    background-color: pink;
+}
+.tag-game{
+    background-color: red;
+}
+.tag-technic{
+    background-color: blue;
+}
+.tag-food{
+    background-color: orange;
+}
+.tag-other{
+    background-color: gray;
+}
